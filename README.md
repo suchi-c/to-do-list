@@ -3,7 +3,7 @@
 A simple and interactive To-Do List application built using **React.js** and **Tailwind CSS**. This app allows users to add, delete, and mark tasks as completed while persisting data using **localStorage**.
 
 ## Features
-- 📝 Add new tasks
+- 📝 Add new tasks    
 - ✅ Mark tasks as completed
 - ❌ Delete tasks
 - 💾 Persistent storage using `localStorage`
